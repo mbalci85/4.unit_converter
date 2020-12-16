@@ -21,3 +21,10 @@ p {
 	color: #562349;
 	font-size: 3rem;
 }
+
+#img {
+	height: 400px;
+	width: auto;
+	border-radius: 50%;
+	border: solid salmon 4px;
+}
